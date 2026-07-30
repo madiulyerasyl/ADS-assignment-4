@@ -1,0 +1,40 @@
+A → C → B → D → E → G → F 
+
+Queue = [A]
+
+Visit A
+
+Add C
+Add B
+Add D
+
+Queue = [C, B, D]
+
+Visit C
+
+Queue = [B, D]
+
+Visit B
+
+Add E
+Add G
+
+Queue = [D, E, G]
+
+Visit D
+
+Queue = [E, G]
+
+Visit E
+
+Add F
+
+Queue = [G, F]
+
+Visit G
+
+Queue = [F]
+
+Visit F
+
+Queue = []
