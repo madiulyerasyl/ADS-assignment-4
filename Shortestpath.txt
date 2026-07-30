@@ -1,0 +1,13 @@
+Edinburgh → Stirling = 50
+
+Stirling → Perth = 40
+
+Perth → Dundee = 60
+
+Total = 50 + 40 + 60 = 150
+
+Shortest Path:
+
+Edinburgh → Stirling → Perth → Dundee
+
+Shortest Distance: 150
