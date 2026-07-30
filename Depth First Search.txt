@@ -1,0 +1,39 @@
+A → C → B → E → G → F → D
+
+Visit A
+
+Go to C
+
+Visit C
+
+Go to B
+
+Visit B
+
+Go to E
+
+Visit E
+
+Go to G
+
+Visit G
+
+Go to F
+
+Visit F
+
+Back to G
+
+Back to E
+
+Back to B
+
+Back to C
+
+Go to D
+
+Visit D
+
+Back to C
+
+Back to A
